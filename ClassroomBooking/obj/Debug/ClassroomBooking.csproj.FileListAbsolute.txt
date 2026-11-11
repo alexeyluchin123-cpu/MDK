@@ -1,0 +1,28 @@
+S:\!ИСП2351\Рубаник Станислав\МДК 04.01\ClassroomBooking_BACKUP\ClassroomBooking\bin\Debug\ClassroomBooking.exe.config
+S:\!ИСП2351\Рубаник Станислав\МДК 04.01\ClassroomBooking_BACKUP\ClassroomBooking\bin\Debug\ClassroomBooking.exe
+S:\!ИСП2351\Рубаник Станислав\МДК 04.01\ClassroomBooking_BACKUP\ClassroomBooking\bin\Debug\ClassroomBooking.pdb
+S:\!ИСП2351\Рубаник Станислав\МДК 04.01\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.AssemblyReference.cache
+S:\!ИСП2351\Рубаник Станислав\МДК 04.01\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\MainWindow.baml
+S:\!ИСП2351\Рубаник Станислав\МДК 04.01\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\MainWindow.g.cs
+S:\!ИСП2351\Рубаник Станислав\МДК 04.01\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\App.g.cs
+S:\!ИСП2351\Рубаник Станислав\МДК 04.01\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\ClassroomBooking_MarkupCompile.cache
+S:\!ИСП2351\Рубаник Станислав\МДК 04.01\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\ClassroomBooking.g.resources
+S:\!ИСП2351\Рубаник Станислав\МДК 04.01\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\ClassroomBooking.Properties.Resources.resources
+S:\!ИСП2351\Рубаник Станислав\МДК 04.01\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.GenerateResource.cache
+S:\!ИСП2351\Рубаник Станислав\МДК 04.01\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.CoreCompileInputs.cache
+S:\!ИСП2351\Рубаник Станислав\МДК 04.01\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\ClassroomBooking.exe
+S:\!ИСП2351\Рубаник Станислав\МДК 04.01\ClassroomBooking_BACKUP\ClassroomBooking\obj\Debug\ClassroomBooking.pdb
+S:\!ИСП2131\Джавадов Эмиль\ClassroomBooking\ClassroomBooking\bin\Debug\ClassroomBooking.exe.config
+S:\!ИСП2131\Джавадов Эмиль\ClassroomBooking\ClassroomBooking\bin\Debug\ClassroomBooking.exe
+S:\!ИСП2131\Джавадов Эмиль\ClassroomBooking\ClassroomBooking\bin\Debug\ClassroomBooking.pdb
+S:\!ИСП2131\Джавадов Эмиль\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.AssemblyReference.cache
+S:\!ИСП2131\Джавадов Эмиль\ClassroomBooking\ClassroomBooking\obj\Debug\MainWindow.baml
+S:\!ИСП2131\Джавадов Эмиль\ClassroomBooking\ClassroomBooking\obj\Debug\MainWindow.g.cs
+S:\!ИСП2131\Джавадов Эмиль\ClassroomBooking\ClassroomBooking\obj\Debug\App.g.cs
+S:\!ИСП2131\Джавадов Эмиль\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking_MarkupCompile.cache
+S:\!ИСП2131\Джавадов Эмиль\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.g.resources
+S:\!ИСП2131\Джавадов Эмиль\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.Properties.Resources.resources
+S:\!ИСП2131\Джавадов Эмиль\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.GenerateResource.cache
+S:\!ИСП2131\Джавадов Эмиль\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.CoreCompileInputs.cache
+S:\!ИСП2131\Джавадов Эмиль\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.exe
+S:\!ИСП2131\Джавадов Эмиль\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.pdb
